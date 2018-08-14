@@ -1,5 +1,5 @@
 # LVM_File_Interperter
-This is a small project intended to create measurement files created from LabVIEW and parse them into a CSV time series.
+This is a small project intended to take measurement files created from LabVIEW and parse them into a CSV time series.
 #run1.txt
 This is the labview file.  It was orginally a .lvm file and was then resaved as a .txt file.
 
